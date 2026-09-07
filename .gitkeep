@@ -1,0 +1,2 @@
+New-Item -Path .\data\.gitkeep -Type File
+New-Item -Path .\models\.gitkeep -Type File
